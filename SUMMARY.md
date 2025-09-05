@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [LeetCode Advanced Path](README.md)
+* [DFS + Backtracking + DP](dfs-+-backtracking-+-dp.md)
