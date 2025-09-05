@@ -13,3 +13,12 @@ For webpage view, please see [https://zhenni.gitbook.io/leetcode-repath/](https:
 This is a summary of Leetcode problems.
 
 If you want to contribute, please see [https://github.com/zhenni/Leetcode-Repath](https://github.com/zhenni/Leetcode-Repath)
+
+
+
+### **Second-Round General Tips**
+
+* **Time yourself:** Track implementation speed
+* **Reflect after solving:**&#x20;
+  * Think about any patterns for this specific type of problem?&#x20;
+  * Time & Space complexities, but the Tradeoffs as well.
