@@ -7,5 +7,5 @@
 * [Cheatsheat](cheatsheat/README.md)
   * [Python Basics](cheatsheat/python-basics.md)
   * [Python Functions](cheatsheat/python-functions.md)
-  * [Python Other Functions](cheatsheat/python-other-functions.md)
+  * [Python Other Functions](cheatsheat/python-tricks.md)
 * [Resources](resources.md)

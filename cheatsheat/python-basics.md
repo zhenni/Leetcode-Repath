@@ -4,6 +4,25 @@ description: Some functions may not use in daily coding but may use in Leetcode 
 
 # Python Basics
 
+### Random
+
+* ```python
+  import math
+
+  # Floor division (rounds towards negative infinity)
+  print(f"5 // 2: {5 // 2}")
+  print(f"-5 // 2: {-5 // 2}")
+
+  # Truncation towards zero (using math.trunc)
+  print(f"math.trunc(5 / 2): {math.trunc(5 / 2)}")
+  print(f"math.trunc(-5 / 2): {math.trunc(-5 / 2)}")
+
+  5 // 2: 2
+  -5 // 2: -3
+  math.trunc(5 / 2): 2
+  math.trunc(-5 / 2): -2
+  ```
+
 ### List
 
 * `nums.sort()`: Sorts the list in-place. `O(nlogn)`
